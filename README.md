@@ -12,7 +12,7 @@
 
 ### 🔧 Technologies & Tools
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: (You can add more as you learn)
+- **Frameworks & Libraries**: React
 
 ### 🌱 What I'm Working On
 - Building web projects that integrate the latest trends in **user experience**.
@@ -32,7 +32,7 @@
 
 ### 📫 Connect with Me
 - **GitHub**: [divi-24](https://github.com/divi-24)
-- **LinkedIn**: [https://linkedin.com/in/deepakgupta249/]
+- **LinkedIn**: [https://linkedin.com/in/deepakgupta249]
 - **Email**: [divi2749@gmail.com]
 
 ---
