@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Deepak Gupta
 
 **BTech in Computer Science (2024-2028)**  
-**JL Bajaj Institute of Technology and Management**
+**GL Bajaj Institute of Technology and Management**
 
 ---
 
