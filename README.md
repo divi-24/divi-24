@@ -24,12 +24,6 @@
 - Gain practical insights into **AI implementations**.
 - Explore **fintech innovations** to blend tech with financial solutions.
 
-### 📸 Photo Space
-*Insert a photo of yourself here by adding a link or uploading directly to your GitHub profile*  
-`![Your Image](link-to-your-image)`
-
----
-
 ### 📫 Connect with Me
 - **GitHub**: [divi-24](https://github.com/divi-24)
 - **LinkedIn**: [https://linkedin.com/in/deepakgupta249]
@@ -43,11 +37,7 @@ My purpose is to cover every single aspect that can make life better and simpler
 ---
 
 *Thank you for visiting my profile! Let's create a better tomorrow with innovation and dedication.*
-
-<!--
-**divi-24/divi-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- ##GSSOC(24) Badges 🪶
+## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -62,3 +52,6 @@ My purpose is to cover every single aspect that can make life better and simpler
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
+<!--
+**divi-24/divi-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
