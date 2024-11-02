@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Deepak Gupta
 <img src="https://github.com/divi-24/divi-24/blob/11c0984339b46162769809ed306b969ce12cbd8f/me.jpeg" width="200px" height="300px" alt="Profile Picture" align="right" />
 BTech in Computer Science And Engineering (2024-2028)
+
 GL Bajaj Institute of Technology and Management
 
 ---
