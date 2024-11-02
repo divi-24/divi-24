@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Deepak Gupta
-
+![Profile Picture]()
 **BTech in Computer Science (2024-2028)**  
 **GL Bajaj Institute of Technology and Management**
 
