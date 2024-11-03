@@ -55,9 +55,9 @@ My purpose is to cover every single aspect that can make life better and simpler
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
-    <img src="https://holopin.io/divi24/badge/cm31c1a5j20830cl8r948dp8d." alt="HoloPin Badge">
   </a>
 </div>
+[![An image of @divi24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divi24)](https://holopin.io/@divi24)
 <!--
 **divi-24/divi-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
