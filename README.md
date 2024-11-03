@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Deepak Gupta
-
+![HoloPin Badge](https://holopin.io/cm31c1a5j20830cl8r948dp8d)
 <img src="https://github.com/divi-24/divi-24/blob/11c0984339b46162769809ed306b969ce12cbd8f/me.jpeg" width="300px" height="400px" alt="Profile Picture" align="right" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 
 **BTech in Computer Science And Engineering (2024-2028)**  
