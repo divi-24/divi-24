@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Deepak Gupta
-![HoloPin Badge](https://holopin.io/cm31c1a5j20830cl8r948dp8d)
 <img src="https://github.com/divi-24/divi-24/blob/11c0984339b46162769809ed306b969ce12cbd8f/me.jpeg" width="300px" height="400px" alt="Profile Picture" align="right" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 
 **BTech in Computer Science And Engineering (2024-2028)**  
@@ -56,7 +55,7 @@ My purpose is to cover every single aspect that can make life better and simpler
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
-    <img src="https://holopin.io/cm31c1a5j20830cl8r948dp8d." alt="HoloPin Badge">
+    <img src="https://holopin.io/divi24/badge/cm31c1a5j20830cl8r948dp8d." alt="HoloPin Badge">
   </a>
 </div>
 <!--
