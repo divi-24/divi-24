@@ -39,7 +39,6 @@ My purpose is to cover every single aspect that can make life better and simpler
 ---
 
 *Thank you for visiting my profile! Let's create a better tomorrow with innovation and dedication.*
-[![An image of @divi24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divi24)](https://holopin.io/@divi24)
 
 ## GSSOC(24) Badges 🪶
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
@@ -58,6 +57,8 @@ My purpose is to cover every single aspect that can make life better and simpler
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
   </a>
 </div>
+## HACKTOBERFEST BADGES
+[![An image of @divi24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divi24)](https://holopin.io/@divi24)
 <!--
 **divi-24/divi-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
