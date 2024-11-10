@@ -41,7 +41,6 @@ My purpose is to cover every single aspect that can make life better and simpler
 *Thank you for visiting my profile! Let's create a better tomorrow with innovation and dedication.*
 
 ## GSSOC(24) Badges 🪶
-[![An image of @divi24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divi24)](https://holopin.io/@divi24)
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
@@ -56,6 +55,7 @@ My purpose is to cover every single aspect that can make life better and simpler
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
+    [![An image of @divi24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divi24)](https://holopin.io/@divi24)
   </a>
 </div>
 <!--
