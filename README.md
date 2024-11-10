@@ -39,6 +39,7 @@ My purpose is to cover every single aspect that can make life better and simpler
 ---
 
 *Thank you for visiting my profile! Let's create a better tomorrow with innovation and dedication.*
+[![An image of @divi24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divi24)](https://holopin.io/@divi24)
 
 ## GSSOC(24) Badges 🪶
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
