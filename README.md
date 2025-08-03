@@ -12,7 +12,7 @@ I'm a passionate **Computer Science Engineering student** and **Web Development 
 
 ✍️ &nbsp;In my free time, I pursue coding projects and explore the latest tech trends.
 
-📫&nbsp;&nbsp;&nbsp;Email me at divi2749[at]gmail[dot]com
+📫&nbsp;&nbsp;&nbsp;Email me at divi2749@gmail.com
 
 ### Connect with me:
 <p align="left">
