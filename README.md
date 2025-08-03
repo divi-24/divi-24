@@ -1,14 +1,5 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Deepak Gupta</h1>
 
-<a href="https://app.daily.dev/deepakgupta" target="_blank">
-  <img
-    width="256"
-    align="right"
-    src="https://api.daily.dev/devcards/v2/8AFpESdDf8VK54kLdvHJu.png?type=default&r=vgz"
-    alt="Deepak Gupta's Dev Card"
-  />
-</a>
-
 I'm a passionate **Computer Science Engineering student** and **Web Development Enthusiast**. Currently pursuing my BTech in Computer Science And Engineering (2024-2028), I'm deeply focused on frontend development and exploring the exciting world of AI and finance technologies.
 
 💼 &nbsp;&nbsp;&nbsp;Student at **Computer Science And Engineering**
