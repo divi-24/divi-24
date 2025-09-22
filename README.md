@@ -1,16 +1,5 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Deepak Gupta</h1>
 
-
-💼 &nbsp;&nbsp;&nbsp;Student at **Computer Science And Engineering**
-
-💡 &nbsp;I like to explore new technologies and develop software solutions that make life better and simpler for everyone.
-
-🌱&nbsp;&nbsp;&nbsp;I'm currently learning **AI, React.js, and Fintech technologies**
-
-💬 &nbsp;Feel free to reach out to me for any collaboration opportunities or tech discussions.
-
-✍️ &nbsp;In my free time, I pursue coding projects and explore the latest tech trends.
-
 📫&nbsp;&nbsp;&nbsp;Email me at divi2749@gmail.com
 
 ### Connect with me:
