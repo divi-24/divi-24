@@ -1,18 +1,14 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     GitHub Profile README — Deepak Gupta (@divi-24)
-     Deploy: copy to github.com/divi-24/divi-24 → README.md
-     ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- GitHub Profile README — Deepak Gupta (@divi-24) -->
+<!-- Deploy: copy to github.com/divi-24/divi-24 → README.md -->
 
 <div align="center">
 
-<!-- ═══ HERO ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Deepak%20Gupta&fontSize=50&fontColor=00D4FF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Breaking%20Bugs%20%26%20Building%20Dreams&descSize=17&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:0F0C29&height=190&section=header&text=Deepak%20Gupta&fontSize=48&fontColor=00D4FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Breaking%20Bugs%20%26%20Building%20Dreams&descSize=16&descAlignY=58&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=Building+production-ready+full-stack+products;React+%7C+Node.js+%7C+TypeScript+%7C+Three.js;Open+Source+%7C+Hackathons+%7C+Real-world+Impact;Available+for+internships%2C+freelance+%26+collaborations" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Open+Source+%7C+Hackathons;Open+to+Work+%26+Collaborations" alt="Typing animation"/>
 
 <br/><br/>
 
-<!-- Status badges -->
 <a href="https://www.linkedin.com/in/deepak2405">
   <img src="https://img.shields.io/badge/OPEN_TO_WORK-Yes-00D4FF?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
 </a>
@@ -25,25 +21,24 @@
 
 <br/><br/>
 
-<!-- ═══ SOCIAL LINKS — HTML table ensures badges render reliably on GitHub ═══ -->
 <table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center">
       <a href="https://www.linkedin.com/in/deepak2405">
         <img src="https://img.shields.io/badge/LinkedIn-deepak2405-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center">
       <a href="https://github.com/divi-24">
         <img src="https://img.shields.io/badge/GitHub-divi--24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center">
       <a href="https://x.com/Divi_2405">
-        <img src="https://img.shields.io/badge/X-@Divi__2405-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter"/>
+        <img src="https://img.shields.io/badge/X-@Divi__2405-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center">
       <a href="mailto:divi2749@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-divi2749-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
@@ -57,7 +52,7 @@
     </td>
     <td align="center">
       <a href="https://dev.to/divi-2405">
-        <img src="https://img.shields.io/badge/dev.to-divi--2405-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community"/>
+        <img src="https://img.shields.io/badge/dev.to-divi--2405-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV"/>
       </a>
     </td>
     <td align="center">
@@ -74,7 +69,7 @@
   <tr>
     <td align="center" colspan="2">
       <a href="https://3d-portfolio-git-main-deepak-guptas-projects-1a8eb72c.vercel.app/">
-        <img src="https://img.shields.io/badge/3D_Portfolio-View_Projects-00D4FF?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=61DAFB" alt="3D Portfolio"/>
+        <img src="https://img.shields.io/badge/3D_Portfolio-View_Projects-00D4FF?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=61DAFB" alt="Portfolio"/>
       </a>
     </td>
     <td align="center" colspan="2">
@@ -89,17 +84,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=divi-24&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/divi-24?label=Followers&style=for-the-badge&color=302B63&logo=github&logoColor=white" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/divi-24?label=Followers&style=for-the-badge&color=302B63&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
 
 ---
 
 ## About Me
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 ### Full Stack Developer · Problem Solver · Builder
 
@@ -115,15 +106,11 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 > I build **scalable, user-centric web applications** — from immersive 3D frontends to robust Node/Mongo backends. My mission: use **technology as an enabler** to make life simpler for everyone.
 
-<br/>
-
 **What I bring to the table:**
 - End-to-end product development — idea → design → deploy
 - Strong fundamentals in **DSA**, system thinking, and clean code
 - Hackathon-tested delivery under real deadlines
 - Active open-source contributor (GSSoC '24)
-
-<br/>
 
 <details open>
 <summary><b>Quick Facts for Recruiters</b></summary>
@@ -138,18 +125,23 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 </details>
 
-</td>
-<td width="42%" valign="top" align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=divi-24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=GitHub%20Analytics&bg_color=0d1117&title_color=00D4FF&icon_color=C850C0&text_color=c9d1d9" alt="GitHub Stats" width="420"/>
+## GitHub Analytics
 
-<br/><br/>
+<!-- Stats use github-readme-stats-eight mirror (official vercel.app returns 503) -->
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=divi-24&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=00D4FF&fire=C850C0&currStreakLabel=00D4FF&sideLabels=FFFFFF" alt="GitHub Streak" width="420"/>
+<div align="center">
 
-</td>
-</tr>
-</table>
+![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=divi-24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=GitHub%20Analytics&bg_color=0d1117&title_color=00D4FF&icon_color=C850C0&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=divi-24&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=00D4FF&fire=C850C0&currStreakLabel=00D4FF&sideLabels=FFFFFF)
+
+![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=divi-24&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&custom_title=Top%20Languages)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divi-24&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -157,8 +149,7 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 <div align="center">
 
-<!-- skillicons.dev — most reliable badge renderer on GitHub -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,threejs,nodejs,express,mongodb,mysql,git,github,postman,figma,vscode,vercel,firebase,docker&perline=10&theme=dark" alt="Tech Stack Icons"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,threejs,nodejs,express,mongodb,mysql,git,github,postman,figma,vscode,vercel,firebase,docker&perline=10&theme=dark" alt="Tech Stack"/>
 
 <br/><br/>
 
@@ -199,21 +190,11 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 ---
 
-## GitHub Insights
+## Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divi-24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=C850C0&point=FFFFFF&area=true&height=320" alt="Contribution Activity Graph" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divi-24&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&custom_title=Top%20Languages" alt="Top Languages"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divi-24&theme=tokyonight" alt="Profile Summary"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=divi-24&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divi-24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=C850C0&point=FFFFFF&area=true&height=300)
 
 </div>
 
@@ -224,7 +205,7 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 <div align="center">
 
 <a href="https://3d-portfolio-git-main-deepak-guptas-projects-1a8eb72c.vercel.app/">
-  <img src="https://img.shields.io/badge/View_All_Projects_on_Portfolio-Click_Here-00D4FF?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white" alt="View all projects"/>
+  <img src="https://img.shields.io/badge/View_All_Projects_on_Portfolio-Click_Here-00D4FF?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white" alt="View portfolio"/>
 </a>
 
 <br/><br/>
@@ -256,11 +237,6 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
   </tr>
 </table>
 
-<br/>
-
-<!-- Pin your best GitHub repos — update repo names below -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divi-24&repo=divi-24&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=C850C0&description_lines_count=2" alt="Pinned repo"/>
-
 </div>
 
 ---
@@ -271,11 +247,11 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 <table align="center">
   <tr>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/GSSoC'24-Contributor-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="GSSoC Contributor"/></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/100xDevs-Full_Stack-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMTIiIHk9IjE2IiBmb250LXNpemU9IjE0IiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4xMDB4PC90ZXh0Pjwvc3ZnPg==" alt="100xDevs"/></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/HACK--IT--UP-IGDTUW-00D4FF?style=for-the-badge&labelColor=0d1117" alt="HACK-IT-UP"/></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/DEVACATION'25-GDG_IGDTUW-C850C0?style=for-the-badge&labelColor=0d1117" alt="DEVACATION"/></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/BuildWithIndia-Hackathon-00B894?style=for-the-badge&labelColor=0d1117" alt="BuildWithIndia"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/GSSoC'24-Contributor-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="GSSoC"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/100xDevs-Full_Stack-000?style=for-the-badge&labelColor=0d1117" alt="100xDevs"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/HACK--IT--UP-IGDTUW-00D4FF?style=for-the-badge&labelColor=0d1117" alt="HACK-IT-UP"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/DEVACATION'25-GDG_IGDTUW-C850C0?style=for-the-badge&labelColor=0d1117" alt="DEVACATION"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/BuildWithIndia-Hackathon-00B894?style=for-the-badge&labelColor=0d1117" alt="BuildWithIndia"/></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/AGENT'S_FEST-IEEE_AMITY-6366F1?style=for-the-badge&labelColor=0d1117" alt="AGENTS FEST"/></td>
@@ -290,68 +266,19 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 ---
 
-## GSSoC '24 Badges
+## GSSoC '24 & Achievement Badges
 
 <div align="center">
 
-<!-- Fixed raw.githubusercontent.com paths (main branch) + explicit dimensions for reliable rendering -->
+<!-- GSSoC24 GitHub repos were removed — Holopin hosts all earned badges reliably -->
 
-<table align="center" cellpadding="8">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90" height="90" alt="Postman Challenge"/>
-      <br/><sub><b>Postman Challenge</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" height="90" alt="Badge Level 1"/>
-      <br/><sub><b>Level 1</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" height="90" alt="Badge Level 2"/>
-      <br/><sub><b>Level 2</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" height="90" alt="Badge Level 3"/>
-      <br/><sub><b>Level 3</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" height="90" alt="Badge Level 4"/>
-      <br/><sub><b>Level 4</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" height="90" alt="Badge Level 5"/>
-      <br/><sub><b>Level 5</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90" height="90" alt="Badge Level 6"/>
-      <br/><sub><b>Level 6</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="90" height="90" alt="Badge Level 7"/>
-      <br/><sub><b>Level 7</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="90" height="90" alt="Badge Level 8"/>
-      <br/><sub><b>Level 8</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Code%20Luminary.png" width="90" height="90" alt="Code Luminary"/>
-      <br/><sub><b>Code Luminary</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Git%20Explorer.png" width="90" height="90" alt="Git Explorer"/>
-      <br/><sub><b>Git Explorer</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Pull%20Expert.png" width="90" height="90" alt="Pull Expert"/>
-      <br/><sub><b>Pull Expert</b></sub>
-    </td>
-  </tr>
-</table>
+<a href="https://holopin.io/@divi24">
+  <img src="https://holopin.me/divi24" alt="GSSoC and achievement badges on Holopin" width="700"/>
+</a>
+
+<br/><br/>
+
+<sub>Postman Challenge · Code Luminary · Git Explorer · Pull Expert · + more on <a href="https://holopin.io/@divi24">Holopin</a></sub>
 
 </div>
 
@@ -369,51 +296,51 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/deepak2405">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
     <td align="center">
       <a href="mailto:divi2749@gmail.com">
-        <img src="https://img.shields.io/badge/Email-divi2749@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>
+        <img src="https://img.shields.io/badge/Email-divi2749@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
       </a>
     </td>
     <td align="center">
       <a href="https://3d-portfolio-git-main-deepak-guptas-projects-1a8eb72c.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-Explore-00D4FF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="View portfolio"/>
+        <img src="https://img.shields.io/badge/Portfolio-Explore-00D4FF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://x.com/Divi_2405">
-        <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/>
+        <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
       </a>
     </td>
     <td align="center">
       <a href="https://dev.to/divi-2405">
-        <img src="https://img.shields.io/badge/dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Follow on DEV"/>
+        <img src="https://img.shields.io/badge/dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV"/>
       </a>
     </td>
     <td align="center">
       <a href="https://medium.com/@divi2749">
-        <img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium"/>
+        <img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://peerlist.io/divi_2405">
-        <img src="https://img.shields.io/badge/Peerlist-Profile-00B894?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist profile"/>
+        <img src="https://img.shields.io/badge/Peerlist-Profile-00B894?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.producthunt.com/@divi_2405">
-        <img src="https://img.shields.io/badge/Product_Hunt-Follow-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt profile"/>
+        <img src="https://img.shields.io/badge/Product_Hunt-Follow-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/divi-24">
-        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       </a>
     </td>
   </tr>
@@ -421,7 +348,7 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,+solve+the+problem.+Then,+write+the+code.&author=John+Johnson" alt="Dev quote"/>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,+solve+the+problem.+Then,+write+the+code.&author=John+Johnson)
 
 </div>
 
@@ -429,11 +356,11 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=520&lines=Code+with+Passion;Build+with+Purpose;Ship+with+Pride;Follow+for+more+builds" alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=Code+with+Passion;Build+with+Purpose;Ship+with+Pride" alt="Footer typing"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=110&section=footer&text=Thanks+for+visiting!+Star+my+repos+%26+follow+me+on+GitHub.&fontSize=16&fontColor=00D4FF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:0F0C29&height=100&section=footer&text=Thanks+for+visiting!+Star+my+repos.&fontSize=15&fontColor=00D4FF&animation=twinkling"/>
 
 <br/>
 
