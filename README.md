@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:0F0C29&height=190&section=header&text=Deepak%20Gupta&fontSize=48&fontColor=00D4FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Breaking%20Bugs%20%26%20Building%20Dreams&descSize=16&descAlignY=58&descAlign=50"/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Open+Source+%7C+Hackathons;Open+to+Work+%26+Collaborations" alt="Typing animation"/>
 
 <br/><br/>
@@ -133,11 +131,8 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=divi-24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=GitHub%20Analytics&bg_color=0d1117&title_color=00D4FF&icon_color=C850C0&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=divi-24&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=00D4FF&fire=C850C0&currStreakLabel=00D4FF&sideLabels=FFFFFF)
-
-![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=divi-24&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&custom_title=Top%20Languages)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divi-24&theme=tokyonight)
 
