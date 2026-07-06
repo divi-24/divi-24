@@ -3,7 +3,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Open+Source+%7C+Hackathons;Open+to+Work+%26+Collaborations" alt="Typing animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:0F0C29&height=190&section=header&text=Deepak%20Gupta&fontSize=48&fontColor=00D4FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Breaking%20Bugs%20%26%20Building%20Dreams&descSize=16&descAlignY=58&descAlign=50"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Open+Source+%7C+Hackathons;Open+to+Work+%26+Collaborations" alt="Typing animation"/>
 
 <br/><br/>
 
@@ -127,14 +129,17 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 ## GitHub Analytics
 
-<!-- Stats use github-readme-stats-eight mirror (official vercel.app returns 503) -->
+<!-- Stats powered by github-stats-extended.vercel.app -->
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=divi-24&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=00D4FF&fire=C850C0&currStreakLabel=00D4FF&sideLabels=FFFFFF)
+<img src="https://github-stats-extended.vercel.app/api?username=divi-24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=GitHub%20Analytics&bg_color=0d1117&title_color=00D4FF&icon_color=C850C0&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
 
+<img src="https://github-readme-streak-stats.demolab.com?user=divi-24&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=00D4FF&fire=C850C0&currStreakLabel=00D4FF&sideLabels=FFFFFF" alt="GitHub Streak" width="49%"/>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divi-24&theme=tokyonight)
+<br/><br/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=divi-24&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&custom_title=Top%20Languages" alt="Top Languages"/>
 
 </div>
 
@@ -189,7 +194,7 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divi-24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=C850C0&point=FFFFFF&area=true&height=300)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divi-24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=C850C0&point=FFFFFF&area=true&height=300" alt="Contribution Activity Graph" width="100%"/>
 
 </div>
 
@@ -231,6 +236,12 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
     </td>
   </tr>
 </table>
+
+<br/><br/>
+
+<a href="https://github.com/divi-24">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=divi-24&repo=divi-24&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=C850C0" alt="Featured Repository"/>
+</a>
 
 </div>
 
@@ -343,7 +354,7 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 <br/>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,+solve+the+problem.+Then,+write+the+code.&author=John+Johnson)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,+solve+the+problem.+Then,+write+the+code.&author=John+Johnson" alt="Dev Quote"/>
 
 </div>
 
@@ -351,7 +362,7 @@ open_to: [Internships, Freelance, Full-time, Collaborations]
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=Code+with+Passion;Build+with+Purpose;Ship+with+Pride" alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=Code+with+Passion;Build+with+Purpose;Ship+with+Pride" alt="Footer typing"/>
 
 <br/><br/>
 
