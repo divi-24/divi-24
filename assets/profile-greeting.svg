@@ -1,71 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Hello, I am Deepak</title>
-  <desc id="desc">A minimal creative GitHub profile banner for Deepak Gupta, product thinker and frontend builder.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Deepak Gupta profile game banner</title>
+  <desc id="desc">A gamified creative banner for Deepak Gupta, also known as divi-24: product thinker, frontend builder, and systems shaper.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#070A12"/>
-      <stop offset="0.55" stop-color="#0F172A"/>
-      <stop offset="1" stop-color="#08111F"/>
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.45" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#07111F"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" x2="1">
+    <linearGradient id="edge" x1="0" x2="1">
       <stop offset="0" stop-color="#8B5CF6"/>
-      <stop offset="0.52" stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#22C55E"/>
       <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
-    <linearGradient id="headline" x1="0" x2="1">
+    <linearGradient id="name" x1="0" x2="1">
       <stop offset="0" stop-color="#F8FAFC"/>
-      <stop offset="0.55" stop-color="#D8B4FE"/>
-      <stop offset="1" stop-color="#86EFAC"/>
+      <stop offset="0.42" stop-color="#C4B5FD"/>
+      <stop offset="0.72" stop-color="#86EFAC"/>
+      <stop offset="1" stop-color="#FCD34D"/>
     </linearGradient>
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="12" result="blur"/>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#1E293B" stroke-width="1" opacity="0.45"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#1E293B" stroke-width="1" opacity="0.42"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="318" rx="27" fill="none" stroke="#1D4ED8" stroke-width="2"/>
-  <rect width="1200" height="320" rx="28" fill="url(#grid)" opacity="0.32"/>
+  <rect width="1200" height="420" rx="32" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="417" rx="30.5" fill="none" stroke="url(#edge)" stroke-width="3"/>
+  <rect width="1200" height="420" rx="32" fill="url(#grid)" opacity="0.34"/>
+  <circle cx="994" cy="77" r="220" fill="url(#orb)"/>
+  <circle cx="160" cy="390" r="210" fill="#8B5CF6" opacity="0.08"/>
 
-  <circle cx="1060" cy="68" r="130" fill="#1D4ED8" opacity="0.08" filter="url(#softGlow)"/>
-  <circle cx="228" cy="272" r="160" fill="#8B5CF6" opacity="0.07" filter="url(#softGlow)"/>
+  <path d="M60 317 C184 254 270 333 392 264 C525 188 623 238 758 164 C894 90 1015 113 1142 52"
+        fill="none" stroke="url(#edge)" stroke-width="6" stroke-linecap="round" opacity="0.88" filter="url(#glow)"/>
+  <path d="M76 333 L198 276 L318 291 L456 218 L585 240 L722 164 L856 185 L1010 108 L1125 122"
+        fill="none" stroke="#38BDF8" stroke-width="1.6" opacity="0.42"/>
 
-  <path d="M64 246 C238 170 344 280 515 203 C677 130 769 96 928 85 C1031 78 1094 54 1138 36"
-        fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" opacity="0.9"/>
-  <path d="M64 247 C238 171 344 281 515 204 C677 131 769 97 928 86 C1031 79 1094 55 1138 37"
-        fill="none" stroke="url(#accent)" stroke-width="18" stroke-linecap="round" opacity="0.08"/>
-
-  <g transform="translate(84 78)">
-    <rect width="220" height="58" rx="18" fill="#0B1120" stroke="#263244"/>
-    <circle cx="34" cy="29" r="6" fill="#8B5CF6"/>
-    <text x="56" y="36" fill="#CBD5E1" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="700">divi-24.build()</text>
+  <g transform="translate(64 54)">
+    <rect width="255" height="310" rx="24" fill="#08111F" stroke="#263244"/>
+    <text x="28" y="42" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="900" letter-spacing="2">PLAYER CARD</text>
+    <circle cx="128" cy="112" r="54" fill="#111827" stroke="url(#edge)" stroke-width="4"/>
+    <path d="M128 76 L164 112 L128 148 L92 112 Z" fill="none" stroke="#22C55E" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M128 76 V148" stroke="#8B5CF6" stroke-width="6" stroke-linecap="round"/>
+    <text x="128" y="197" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="900">divi-24</text>
+    <text x="128" y="222" text-anchor="middle" fill="#94A3B8" font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="700">level 24 builder</text>
+    <rect x="28" y="248" width="199" height="12" rx="6" fill="#111827" stroke="#263244"/>
+    <rect x="28" y="248" width="162" height="12" rx="6" fill="url(#edge)"/>
+    <text x="28" y="286" fill="#C4B5FD" font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="800">XP  product + code + care</text>
   </g>
 
-  <g transform="translate(84 156)">
-    <text x="0" y="0" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="5">PRODUCT THINKER / FRONTEND BUILDER</text>
-    <text x="0" y="72" fill="url(#headline)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="900">Hello, I am Deepak.</text>
-    <text x="3" y="113" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">I design clear systems and ship useful digital products.</text>
+  <g transform="translate(358 72)">
+    <text x="0" y="0" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="900" letter-spacing="5">PRESS START TO BUILD</text>
+    <text x="0" y="78" fill="url(#name)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="950">Deepak Gupta</text>
+    <text x="3" y="124" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">Product thinker. Frontend builder. Systems shaper.</text>
+    <text x="3" y="160" fill="#94A3B8" font-family="Fira Code, Consolas, monospace" font-size="17" font-weight="700">quest: turn fuzzy ideas into useful, lovable, shipped products</text>
+
+    <g transform="translate(0 202)">
+      <rect width="154" height="46" rx="14" fill="#171B2A" stroke="#374151"/>
+      <text x="77" y="29" text-anchor="middle" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="900">DESIGN QUEST</text>
+      <rect x="174" width="138" height="46" rx="14" fill="#102116" stroke="#285A39"/>
+      <text x="243" y="29" text-anchor="middle" fill="#86EFAC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="900">BUILD MODE</text>
+      <rect x="332" width="136" height="46" rx="14" fill="#251A08" stroke="#6B4B13"/>
+      <text x="400" y="29" text-anchor="middle" fill="#FCD34D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="900">SHIP LOOP</text>
+    </g>
   </g>
 
-  <g transform="translate(838 188)">
-    <rect width="122" height="36" rx="18" fill="#171B2A" stroke="#374151"/>
-    <text x="61" y="24" text-anchor="middle" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">DESIGN</text>
-    <rect x="138" width="104" height="36" rx="18" fill="#102116" stroke="#285A39"/>
-    <text x="190" y="24" text-anchor="middle" fill="#86EFAC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">BUILD</text>
-    <rect x="258" width="92" height="36" rx="18" fill="#251A08" stroke="#6B4B13"/>
-    <text x="304" y="24" text-anchor="middle" fill="#FCD34D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">SHIP</text>
+  <g transform="translate(864 244)">
+    <rect width="246" height="98" rx="20" fill="#08111F" stroke="#263244"/>
+    <text x="22" y="34" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="2">ACTIVE LOADOUT</text>
+    <text x="22" y="63" fill="#F8FAFC" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="800">React  Next  Three</text>
+    <text x="22" y="86" fill="#86EFAC" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="800">Node  Product  UX</text>
   </g>
 
-  <g transform="translate(991 78)">
-    <rect width="96" height="96" rx="28" fill="#0B1120" stroke="#263244"/>
-    <path d="M48 21 L75 48 L48 75 L21 48 Z" fill="none" stroke="#22C55E" stroke-width="7" stroke-linejoin="round"/>
-    <path d="M48 21 V75" stroke="#8B5CF6" stroke-width="6" stroke-linecap="round"/>
-    <text x="48" y="132" text-anchor="middle" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="2.5">DIVI-24</text>
+  <g transform="translate(927 70)" opacity="0.92">
+    <rect width="184" height="122" rx="22" fill="#08111F" stroke="#263244"/>
+    <text x="24" y="38" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="2">MINI MAP</text>
+    <path d="M30 86 L63 61 L95 76 L126 42 L156 54" fill="none" stroke="#38BDF8" stroke-width="2"/>
+    <circle cx="30" cy="86" r="5" fill="#8B5CF6"/>
+    <circle cx="63" cy="61" r="5" fill="#22C55E"/>
+    <circle cx="95" cy="76" r="5" fill="#F59E0B"/>
+    <circle cx="126" cy="42" r="5" fill="#22C55E"/>
+    <circle cx="156" cy="54" r="5" fill="#8B5CF6"/>
   </g>
 </svg>
