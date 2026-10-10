@@ -1,6 +1,6 @@
 <!--
   GitHub profile README for @divi-24.
-  To publish: place this README.md and its adjacent assets/ directory in the root of github.com/divi-24/divi-24.
+  Publish by placing this README.md and its adjacent assets/ directory in the root of github.com/divi-24/divi-24.
 -->
 
 <div align="center">
@@ -12,47 +12,69 @@
 
   # Deepak Gupta
 
-  **Product-minded Software Engineer building thoughtful web experiences, dependable systems, and products people enjoy using.**
+  **Product-minded software engineer. Builder of useful things. Advocate for making technology feel more human.**
 
   <a href="https://3d-portfolio-rouge-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/deepak2405"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:divi2749@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Deepak" /></a>
+  <a href="mailto:divi2749@gmail.com"><img src="https://img.shields.io/badge/Email-Start_a_conversation-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Deepak" /></a>
   <a href="https://github.com/divi-24?tab=followers"><img src="https://komarev.com/ghpvc/?username=divi-24&label=Profile%20views&style=flat-square&color=111827" alt="Profile views" /></a>
 </div>
 
-## About
+## The Short Version
 
-I take products from **idea to deployment**: framing the problem, shaping clear interfaces, building the implementation, and refining the details that make the result feel effortless. My work spans product engineering, interactive 3D web experiences, health tech, open source, and developer communities.
+I take products from **idea to deployment**: understanding the problem, shaping the experience, building the system, and polishing the details that earn trust. I work across interactive 3D web experiences, health tech, product strategy, open source, and developer communities.
 
-- Building with **React, Next.js, TypeScript, Node.js, NestJS, Go, Flutter, MongoDB, and MySQL**.
-- Former **Chief Marketing Officer at Dropp Services Pvt. Ltd.**, after progressing through frontend, product strategy, and product management roles.
-- **Best Mentor** at SSSC by TechNeeds, IGDTUW; mentored 200+ learners across web development and career readiness.
+```text
+think in systems  ->  build with care  ->  ship what helps
+```
+
+- Former **Chief Marketing Officer at Dropp Services Pvt. Ltd.**, after progressing through frontend engineering, product strategy, and product management.
+- **Best Mentor** at SSSC by TechNeeds, IGDTUW; mentored 200+ learners in web development and career readiness.
 - **Project Admin** at GirlScript Summer of Code and Social Summer of Code.
-- Top 11 team at **Hack'n'Solve, Devcation 2025**; builder, mentor, and open-source contributor.
+- Top 11 team at **Hack'n'Solve, Devcation 2025**; open-source contributor, speaker, and hackathon builder.
 
-## Find Me
+## Digital Coordinates
 
 [Portfolio](https://3d-portfolio-rouge-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/deepak2405) · [GitHub](https://github.com/divi-24) · [Peerlist](https://peerlist.io/divi_2405) · [X](https://x.com/Divi_2405) · [DEV Community](https://dev.to/divi-2405) · [Medium](https://medium.com/@divi2749) · [Substack](https://substack.com/@divi24) · [Reddit](https://www.reddit.com/user/Divi_2409/) · [Product Hunt](https://www.producthunt.com/@divi_2405) · [Holopin](https://holopin.io/@divi24)
 
-**Coding:** [GitHub](https://github.com/divi-24) · [LeetCode](https://leetcode.com/u/divi_2405/) · [Codeforces](https://codeforces.com/profile/Divi-2405) · [CodeChef](https://www.codechef.com/users/divi_2405)
+**Competitive programming:** [LeetCode](https://leetcode.com/u/divi_2405/) · [Codeforces](https://codeforces.com/profile/Divi-2405) · [CodeChef](https://www.codechef.com/users/divi_2405)
 
-## Selected Work
+## Coding Signal
 
-| Project | What it is | Live |
+<div align="center">
+  <a href="https://3d-portfolio-rouge-seven.vercel.app/#contributions">
+    <img src="./assets/coding-dashboard.svg" alt="GitHub contribution and LeetCode submission heatmaps with coding profile metrics" width="100%" />
+  </a>
+</div>
+
+| Platform | Profile | Current signal |
 | :-- | :-- | :-- |
-| **SheSync** | An AI-aware menstrual-health and wellness platform for personalized cycle support, self-care, education, and community. | [Visit](https://shesync-rouge.vercel.app/) |
-| **IGDTUW 3D Map** | An interactive 3D campus visualization for exploration, education, and digital storytelling. | [Visit](https://igdtuw-map.vercel.app/) |
-| **GitSee** | A tool to discover, score, compare, and understand public GitHub repositories. | [Visit](https://gitsee-beta.vercel.app/) |
-| **Thrive** | A collaborative space for developers, designers, and innovators working through hackathon challenges. | [Visit](https://thrve-hack.vercel.app/) |
-| **Kisaan Setu** | A platform connecting farmers with market information, agricultural resources, and expert guidance. | [Visit](https://kisaan-setu-f.vercel.app/) |
-| **ResQPlate** | A food-rescue platform that connects restaurants and food businesses with local charities. | [Visit](https://resqplate.vercel.app/) |
-| **Divios** | An interactive creator portfolio platform built around 3D elements and motion. | [Visit](https://divios.vercel.app/) |
-| **InnerBloom** | A mental-wellness space for reflection, resources, and supportive community features. | [Visit](https://innerbloom.vercel.app/) |
-| **Quake** | An earthquake-awareness tool for real-time information, alerts, and practical safety guidance. | [Visit](https://quake-sigma.vercel.app/) |
-| **Disaster Management** | A platform helping communities stay informed, prepared, and connected during disasters. | [Visit](https://dm-two-pi.vercel.app/) |
-| **Mapify** | A local discovery product built around maps, reviews, and community-shared experiences. | [Visit](https://mapp-roan.vercel.app/) |
+| [GitHub](https://github.com/divi-24) | `divi-24` | 401 contributions in the latest year · 187 public-repository commits · 36 repositories |
+| [LeetCode](https://leetcode.com/u/divi_2405/) | `divi_2405` | 106 solved: 26 Easy · 46 Medium · 34 Hard |
+| [CodeChef](https://www.codechef.com/users/divi_2405) | `divi_2405` | Rating 1243 · Peak rating 1418 · 11 solved |
+| [Codeforces](https://codeforces.com/profile/Divi-2405) | `Divi-2405` | 4 problems solved |
 
-[**See the complete portfolio**](https://3d-portfolio-rouge-seven.vercel.app/)
+<sub>The dashboard is generated from public profile snapshots, not an opaque third-party widget.</sub>
+
+## Project Archive
+
+Every project currently featured in my portfolio, from experimental prototypes to public products:
+
+| Project | What I built | Live |
+| :-- | :-- | :-- |
+| **SheSync** | An AI-aware menstrual-health and wellness platform for personalized cycle support, self-care, education, and community. | [Open project](https://shesync-rouge.vercel.app/) |
+| **IGDTUW 3D Map** | An interactive 3D campus visualization for exploration, education, and digital storytelling. | [Open project](https://igdtuw-map.vercel.app/) |
+| **GitSee** | A tool to discover, score, compare, and understand public GitHub repositories. | [Open project](https://gitsee-beta.vercel.app/) |
+| **Thrive** | A collaborative space for developers, designers, and innovators working through hackathon challenges. | [Open project](https://thrve-hack.vercel.app/) |
+| **Kisaan Setu** | A platform connecting farmers with market information, agricultural resources, and expert guidance. | [Open project](https://kisaan-setu-f.vercel.app/) |
+| **ResQPlate** | A food-rescue platform that connects restaurants and food businesses with local charities. | [Open project](https://resqplate.vercel.app/) |
+| **Divios** | An interactive creator portfolio platform built around 3D elements and motion. | [Open project](https://divios.vercel.app/) |
+| **InnerBloom** | A mental-wellness space for reflection, resources, and supportive community features. | [Open project](https://innerbloom.vercel.app/) |
+| **Quake** | An earthquake-awareness tool for real-time information, alerts, and practical safety guidance. | [Open project](https://quake-sigma.vercel.app/) |
+| **Disaster Management** | A platform helping communities stay informed, prepared, and connected during disasters. | [Open project](https://dm-two-pi.vercel.app/) |
+| **Mapify** | A local discovery product built around maps, reviews, and community-shared experiences. | [Open project](https://mapp-roan.vercel.app/) |
+
+[**Walk through the full portfolio**](https://3d-portfolio-rouge-seven.vercel.app/)
 
 ## Toolbox
 
@@ -60,14 +82,28 @@ I take products from **idea to deployment**: framing the problem, shaping clear 
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,nodejs,nestjs,express,go,flutter,dart,mongodb,mysql,firebase,git,github,postman,figma,vercel&perline=10&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Three.js, Node.js, NestJS, Express, Go, Flutter, Dart, MongoDB, MySQL, Firebase, Git, GitHub, Postman, Figma, and Vercel" />
 </div>
 
-## Open Source and Learning
+<details>
+<summary><b>Full technical inventory</b></summary>
+
+<br />
+
+| Focus | Tools |
+| :-- | :-- |
+| **Languages** | JavaScript, TypeScript, Python, Java, C++, Go, Dart, HTML, CSS |
+| **Frontend** | React, Next.js, Tailwind CSS, Three.js, React Three Fiber, Flutter |
+| **Backend and data** | Node.js, NestJS, Express, REST APIs, MongoDB, MySQL, Firebase |
+| **Product and delivery** | Git, GitHub, Postman, Figma, system design, open source, product strategy |
+
+</details>
+
+## Community Proof
 
 <div align="center">
   <a href="https://holopin.io/@divi24"><img src="https://holopin.me/divi24" alt="Open-source achievement badges on Holopin" width="700" /></a>
 </div>
 
 <details>
-<summary><b>Credential gallery</b></summary>
+<summary><b>Open the credential gallery</b></summary>
 
 <br />
 
@@ -96,24 +132,15 @@ I take products from **idea to deployment**: framing the problem, shaping clear 
 
 </details>
 
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divi-24&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=111827&text_color=4B5563&icon_color=2563EB" alt="Deepak's GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=divi-24&hide_border=true&theme=transparent&ring=2563EB&fire=EA580C&currStreakLabel=111827" alt="Deepak's GitHub contribution streak" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divi-24&bg_color=ffffff&color=374151&line=2563eb&point=111827&area=true&hide_border=true" alt="GitHub contribution graph" width="100%" />
-</div>
-
-## Beyond Code
+## Beyond the Build
 
 - [SheSync podcast: building accessible menstrual-health technology](https://www.youtube.com/watch?v=MqH9bZNVUbQ)
 - [News18 feature: SheSync as an AI health companion](https://hindi.news18.com/news/uttar-pradesh/greater-noida-ai-women-new-companion-shesync-every-health-answer-one-click-become-women-smart-health-assistant-local18-9792664.html)
-- [Guest speaker: Open source and contributions at Data Science Club, VIT Bhopal](https://www.youtube.com/live/xnOeJgy-sK8?si=8x1LD1PLGDodyiG9)
-- [Read my system-design notes on Medium](https://medium.com/@divi2749)
+- [Guest speaker: open source and contributions at Data Science Club, VIT Bhopal](https://www.youtube.com/live/xnOeJgy-sK8?si=8x1LD1PLGDodyiG9)
+- [System-design notes and product thinking on Medium](https://medium.com/@divi2749)
+- ["Why Leaves Are Better Than Human Beings" on Amazon](https://www.amazon.com/dp/B0GXMVZ8MQ)
+- ["You Are The Product" on Amazon](https://www.amazon.com/dp/B0H83DFRFX)
 
 <div align="center">
-  <sub>Thanks for stopping by. Let's build something useful.</sub>
+  <sub>Curious mind. Useful work. Better every iteration.</sub>
 </div>
