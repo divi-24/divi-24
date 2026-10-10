@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/profile-greeting.svg" alt="Deepak Gupta - divi-24 gamified profile banner" width="100%" />
+  <img src="./assets/pastel-product-builder-dashboard.png" alt="Deepak Gupta - divi-24 pastel product builder dashboard banner" width="100%" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=1900&pause=650&color=8B5CF6&center=true&vCenter=true&width=1000&height=64&lines=Welcome+to+the+build+arcade.;Choose+a+quest%3A+design%2C+build%2C+ship.;I+turn+fuzzy+ideas+into+real+products.;Product+thinking+%2B+frontend+craft+%2B+systems+energy." alt="Typing animation with Deepak's build quests" />
   <br />
