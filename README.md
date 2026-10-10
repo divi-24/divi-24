@@ -4,13 +4,11 @@
 -->
 
 <div align="center">
-
-  # Deepak Gupta
-
-  <pre>product-minded software engineer
-idea -> interface -> system -> impact</pre>
-
-  **Builder of useful things. Advocate for making technology feel more human.**
+  <img src="./assets/profile-greeting.svg" alt="Hello! I am Deepak" width="100%" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&height=58&lines=I+build+useful+products.;I+ship+thoughtful+web+experiences.;I+contribute+to+open+source.;I+mentor+the+next+builders." alt="Animated introduction: builder, engineer, open-source contributor, and mentor" />
+  <br />
+  <sub>Product-minded software engineer turning ideas into dependable experiences.</sub>
 
   <a href="https://diviii.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/deepak2405"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -54,23 +52,6 @@ think in systems  ->  build with care  ->  ship what helps
   <a href="https://codeforces.com/profile/Divi-2405"><img src="https://img.shields.io/badge/Codeforces-Divi--2405-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" /></a>
   <a href="https://www.codechef.com/users/divi_2405"><img src="https://img.shields.io/badge/CodeChef-divi__2405-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" /></a>
 </div>
-
-## Coding Signal
-
-<div align="center">
-  <a href="https://diviii.vercel.app/#contributions">
-    <img src="./assets/coding-dashboard.svg" alt="GitHub contribution and LeetCode submission heatmaps with coding profile metrics" width="100%" />
-  </a>
-</div>
-
-| Platform | Profile | Current signal |
-| :-- | :-- | :-- |
-| [GitHub](https://github.com/divi-24) | `divi-24` | 401 contributions in the latest year · 187 public-repository commits · 36 repositories |
-| [LeetCode](https://leetcode.com/u/divi_2405/) | `divi_2405` | 106 solved: 26 Easy · 46 Medium · 34 Hard |
-| [CodeChef](https://www.codechef.com/users/divi_2405) | `divi_2405` | Rating 1243 · Peak rating 1418 · 11 solved |
-| [Codeforces](https://codeforces.com/profile/Divi-2405) | `Divi-2405` | 4 problems solved |
-
-<sub>The dashboard is generated from public profile snapshots, not an opaque third-party widget.</sub>
 
 ## Project Archive
 
