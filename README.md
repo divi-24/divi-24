@@ -1,364 +1,119 @@
-<!-- GitHub Profile README — Deepak Gupta (@divi-24) -->
-<!-- Deploy: copy to github.com/divi-24/divi-24 → README.md -->
+<!--
+  GitHub profile README for @divi-24.
+  To publish: place this README.md and its adjacent assets/ directory in the root of github.com/divi-24/divi-24.
+-->
 
 <div align="center">
+  <a href="https://3d-portfolio-rouge-seven.vercel.app/">
+    <img src="./assets/coding-workspace.gif" alt="Deepak Gupta coding workspace" width="100%" />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Open+Source+%7C+Hackathons;Open+to+Work+%26+Collaborations" alt="Typing animation"/>
+  <br />
 
-<br/><br/>
+  # Deepak Gupta
 
-<a href="https://www.linkedin.com/in/deepak2405">
-  <img src="https://img.shields.io/badge/OPEN_TO_WORK-Yes-00D4FF?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
-</a>
-<a href="https://3d-portfolio-git-main-deepak-guptas-projects-1a8eb72c.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-00B894?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white" alt="Portfolio live"/>
-</a>
-<a href="mailto:divi2749@gmail.com">
-  <img src="https://img.shields.io/badge/Hire_Me-Email_Now-EA4335?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" alt="Hire me"/>
-</a>
+  **Product-minded Software Engineer building thoughtful web experiences, dependable systems, and products people enjoy using.**
 
-<br/><br/>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/deepak2405">
-        <img src="https://img.shields.io/badge/LinkedIn-deepak2405-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/divi-24">
-        <img src="https://img.shields.io/badge/GitHub-divi--24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/Divi_2405">
-        <img src="https://img.shields.io/badge/X-@Divi__2405-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:divi2749@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-divi2749-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://medium.com/@divi2749">
-        <img src="https://img.shields.io/badge/Medium-@divi2749-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dev.to/divi-2405">
-        <img src="https://img.shields.io/badge/dev.to-divi--2405-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://peerlist.io/divi_2405">
-        <img src="https://img.shields.io/badge/Peerlist-divi__2405-00B894?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.producthunt.com/@divi_2405">
-        <img src="https://img.shields.io/badge/Product_Hunt-@divi__2405-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://3d-portfolio-git-main-deepak-guptas-projects-1a8eb72c.vercel.app/">
-        <img src="https://img.shields.io/badge/3D_Portfolio-View_Projects-00D4FF?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=61DAFB" alt="Portfolio"/>
-      </a>
-    </td>
-    <td align="center" colspan="2">
-      <a href="https://holopin.io/@divi24">
-        <img src="https://img.shields.io/badge/Holopin-@divi24-6366F1?style=for-the-badge&labelColor=0d1117" alt="Holopin"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=divi-24&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/divi-24?label=Followers&style=for-the-badge&color=302B63&logo=github&logoColor=white" alt="Followers"/>
-
+  <a href="https://3d-portfolio-rouge-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/deepak2405"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:divi2749@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Deepak" /></a>
+  <a href="https://github.com/divi-24?tab=followers"><img src="https://komarev.com/ghpvc/?username=divi-24&label=Profile%20views&style=flat-square&color=111827" alt="Profile views" /></a>
 </div>
 
----
+## About
 
-## About Me
+I take products from **idea to deployment**: framing the problem, shaping clear interfaces, building the implementation, and refining the details that make the result feel effortless. My work spans product engineering, interactive 3D web experiences, health tech, open source, and developer communities.
 
-### Full Stack Developer · Problem Solver · Builder
+- Building with **React, Next.js, TypeScript, Node.js, NestJS, Go, Flutter, MongoDB, and MySQL**.
+- Former **Chief Marketing Officer at Dropp Services Pvt. Ltd.**, after progressing through frontend, product strategy, and product management roles.
+- **Best Mentor** at SSSC by TechNeeds, IGDTUW; mentored 200+ learners across web development and career readiness.
+- **Project Admin** at GirlScript Summer of Code and Social Summer of Code.
+- Top 11 team at **Hack'n'Solve, Devcation 2025**; builder, mentor, and open-source contributor.
 
-```yaml
-name: Deepak Gupta
-location: Greater Noida, India
-education: B.Tech CSE @ GL Bajaj Institute (2028)
-roles: [Full Stack, Frontend, Backend, Freelancer]
-tagline: Breaking Bugs, Building Dreams
-portfolio: 3d-portfolio-git-main-deepak-guptas-projects-1a8eb72c.vercel.app
-open_to: [Internships, Freelance, Full-time, Collaborations]
-```
+## Find Me
 
-> I build **scalable, user-centric web applications** — from immersive 3D frontends to robust Node/Mongo backends. My mission: use **technology as an enabler** to make life simpler for everyone.
+[Portfolio](https://3d-portfolio-rouge-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/deepak2405) · [GitHub](https://github.com/divi-24) · [Peerlist](https://peerlist.io/divi_2405) · [X](https://x.com/Divi_2405) · [DEV Community](https://dev.to/divi-2405) · [Medium](https://medium.com/@divi2749) · [Substack](https://substack.com/@divi24) · [Reddit](https://www.reddit.com/user/Divi_2409/) · [Product Hunt](https://www.producthunt.com/@divi_2405) · [Holopin](https://holopin.io/@divi24)
 
-**What I bring to the table:**
-- End-to-end product development — idea → design → deploy
-- Strong fundamentals in **DSA**, system thinking, and clean code
-- Hackathon-tested delivery under real deadlines
-- Active open-source contributor (GSSoC '24)
+**Coding:** [GitHub](https://github.com/divi-24) · [LeetCode](https://leetcode.com/u/divi_2405/) · [Codeforces](https://codeforces.com/profile/Divi-2405) · [CodeChef](https://www.codechef.com/users/divi_2405)
 
-<details open>
-<summary><b>Quick Facts for Recruiters</b></summary>
-<br/>
+## Selected Work
 
-| | |
-|---|---|
-| **Stack** | React, Next.js, Node.js, TypeScript, MongoDB, Three.js |
-| **Strengths** | Problem solving, UI/UX, API design, 3D web experiences |
-| **Certifications** | GSSoC Contributor, 100xDevs Full Stack, 10+ Hackathons |
-| **Contact** | [divi2749@gmail.com](mailto:divi2749@gmail.com) · [LinkedIn](https://www.linkedin.com/in/deepak2405) |
+| Project | What it is | Live |
+| :-- | :-- | :-- |
+| **SheSync** | An AI-aware menstrual-health and wellness platform for personalized cycle support, self-care, education, and community. | [Visit](https://shesync-rouge.vercel.app/) |
+| **IGDTUW 3D Map** | An interactive 3D campus visualization for exploration, education, and digital storytelling. | [Visit](https://igdtuw-map.vercel.app/) |
+| **GitSee** | A tool to discover, score, compare, and understand public GitHub repositories. | [Visit](https://gitsee-beta.vercel.app/) |
+| **Thrive** | A collaborative space for developers, designers, and innovators working through hackathon challenges. | [Visit](https://thrve-hack.vercel.app/) |
+| **Kisaan Setu** | A platform connecting farmers with market information, agricultural resources, and expert guidance. | [Visit](https://kisaan-setu-f.vercel.app/) |
+| **ResQPlate** | A food-rescue platform that connects restaurants and food businesses with local charities. | [Visit](https://resqplate.vercel.app/) |
+| **Divios** | An interactive creator portfolio platform built around 3D elements and motion. | [Visit](https://divios.vercel.app/) |
+| **InnerBloom** | A mental-wellness space for reflection, resources, and supportive community features. | [Visit](https://innerbloom.vercel.app/) |
+| **Quake** | An earthquake-awareness tool for real-time information, alerts, and practical safety guidance. | [Visit](https://quake-sigma.vercel.app/) |
+| **Disaster Management** | A platform helping communities stay informed, prepared, and connected during disasters. | [Visit](https://dm-two-pi.vercel.app/) |
+| **Mapify** | A local discovery product built around maps, reviews, and community-shared experiences. | [Visit](https://mapp-roan.vercel.app/) |
+
+[**See the complete portfolio**](https://3d-portfolio-rouge-seven.vercel.app/)
+
+## Toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,nodejs,nestjs,express,go,flutter,dart,mongodb,mysql,firebase,git,github,postman,figma,vercel&perline=10&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Three.js, Node.js, NestJS, Express, Go, Flutter, Dart, MongoDB, MySQL, Firebase, Git, GitHub, Postman, Figma, and Vercel" />
+</div>
+
+## Open Source and Learning
+
+<div align="center">
+  <a href="https://holopin.io/@divi24"><img src="https://holopin.me/divi24" alt="Open-source achievement badges on Holopin" width="700" /></a>
+</div>
+
+<details>
+<summary><b>Credential gallery</b></summary>
+
+<br />
+
+<div align="center">
+  <a href="https://www.credly.com/"><img src="./assets/mckinsey-forward.png" alt="McKinsey Forward Program badge" width="112" /></a>
+  <a href="https://holopin.io/@divi24"><img src="./assets/gssoc-adventurer.png" alt="GSSoC Adventurer badge" width="112" /></a>
+  <a href="https://holopin.io/@divi24"><img src="./assets/gssoc-explorer.png" alt="GSSoC Explorer badge" width="112" /></a>
+  <a href="https://holopin.io/@divi24"><img src="./assets/gssoc-trailblazer.png" alt="GSSoC Trailblazer badge" width="112" /></a>
+  <a href="https://holopin.io/@divi24"><img src="./assets/gssoc-innovator.png" alt="GSSoC Innovator badge" width="112" /></a>
+  <a href="https://holopin.io/@divi24"><img src="./assets/gssoc-conqueror.png" alt="GSSoC Conqueror badge" width="112" /></a>
+  <a href="https://holopin.io/@divi24"><img src="./assets/gssoc-champion.png" alt="GSSoC Champion badge" width="112" /></a>
+  <a href="https://holopin.io/@divi24"><img src="./assets/gssoc-summit-seeker.png" alt="GSSoC Summit Seeker badge" width="112" /></a>
+</div>
+
+<div align="center">
+  <img src="./assets/ssoc-badge-1.jpg" alt="Social Summer of Code badge" width="112" />
+  <img src="./assets/ssoc-badge-2.jpg" alt="Social Summer of Code badge" width="112" />
+  <img src="./assets/ssoc-badge-3.jpg" alt="Social Summer of Code badge" width="112" />
+  <img src="./assets/hacktoberfest-1.png" alt="Hacktoberfest badge" width="112" />
+  <img src="./assets/hacktoberfest-2.png" alt="Hacktoberfest badge" width="112" />
+  <img src="./assets/hacktoberfest-3.png" alt="Hacktoberfest badge" width="112" />
+  <img src="./assets/hacktoberfest-4.png" alt="Hacktoberfest badge" width="112" />
+  <img src="./assets/hacktoberfest-5.png" alt="Hacktoberfest badge" width="112" />
+  <img src="./assets/hacktoberfest-6.png" alt="Hacktoberfest badge" width="112" />
+</div>
 
 </details>
 
----
-
-## GitHub Analytics
-
-<!-- Stats use github-readme-stats-eight mirror (official vercel.app returns 503) -->
+## Activity
 
 <div align="center">
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=divi-24&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=00D4FF&fire=C850C0&currStreakLabel=00D4FF&sideLabels=FFFFFF)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divi-24&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=divi-24&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=111827&text_color=4B5563&icon_color=2563EB" alt="Deepak's GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=divi-24&hide_border=true&theme=transparent&ring=2563EB&fire=EA580C&currStreakLabel=111827" alt="Deepak's GitHub contribution streak" height="165" />
 </div>
 
----
-
-## Tech Stack
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,threejs,nodejs,express,mongodb,mysql,git,github,postman,figma,vscode,vercel,firebase,docker&perline=10&theme=dark" alt="Tech Stack"/>
-
-<br/><br/>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-      <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-      <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-    </td>
-  </tr>
-</table>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divi-24&bg_color=ffffff&color=374151&line=2563eb&point=111827&area=true&hide_border=true" alt="GitHub contribution graph" width="100%" />
 </div>
 
----
+## Beyond Code
 
-## Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divi-24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=C850C0&point=FFFFFF&area=true&height=300)
-
-</div>
-
----
-
-## Featured Projects
+- [SheSync podcast: building accessible menstrual-health technology](https://www.youtube.com/watch?v=MqH9bZNVUbQ)
+- [News18 feature: SheSync as an AI health companion](https://hindi.news18.com/news/uttar-pradesh/greater-noida-ai-women-new-companion-shesync-every-health-answer-one-click-become-women-smart-health-assistant-local18-9792664.html)
+- [Guest speaker: Open source and contributions at Data Science Club, VIT Bhopal](https://www.youtube.com/live/xnOeJgy-sK8?si=8x1LD1PLGDodyiG9)
+- [Read my system-design notes on Medium](https://medium.com/@divi2749)
 
 <div align="center">
-
-<a href="https://3d-portfolio-git-main-deepak-guptas-projects-1a8eb72c.vercel.app/">
-  <img src="https://img.shields.io/badge/View_All_Projects_on_Portfolio-Click_Here-00D4FF?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white" alt="View portfolio"/>
-</a>
-
-<br/><br/>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>SheSync</b> — Women's health & cycle tracking platform<br/>
-      <sub>React · MongoDB · Node.js · Tailwind</sub><br/><br/>
-      <b>RepoScout</b> — Smart GitHub repo discovery tool<br/>
-      <sub>React · Node.js · REST API · Tailwind</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>IGDTUW3D</b> — 3D visualization & interactive experiences<br/>
-      <sub>React Three Fiber · TypeScript · GSAP · Tailwind</sub><br/><br/>
-      <b>Thrive</b> — Hackathon collaboration platform<br/>
-      <sub>Next.js · React · TypeScript · Tailwind</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Kisaan Setu</b> — Farmer-agtech bridge platform<br/>
-      <sub>Next.js · React · Node.js · Tailwind</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>ResQPlate</b> — Food rescue & redistribution platform<br/>
-      <sub>Next.js · React · Firebase · Tailwind</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## Certifications & Hackathons
-
-<div align="center">
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/GSSoC'24-Contributor-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="GSSoC"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/100xDevs-Full_Stack-000?style=for-the-badge&labelColor=0d1117" alt="100xDevs"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/HACK--IT--UP-IGDTUW-00D4FF?style=for-the-badge&labelColor=0d1117" alt="HACK-IT-UP"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/DEVACATION'25-GDG_IGDTUW-C850C0?style=for-the-badge&labelColor=0d1117" alt="DEVACATION"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/BuildWithIndia-Hackathon-00B894?style=for-the-badge&labelColor=0d1117" alt="BuildWithIndia"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/AGENT'S_FEST-IEEE_AMITY-6366F1?style=for-the-badge&labelColor=0d1117" alt="AGENTS FEST"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/HACK_FOR_IMPACT-ECELL_IIITD-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="HACK FOR IMPACT"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/GLB_Hackathon_4.0-Tech_Visor-00D4FF?style=for-the-badge&labelColor=0d1117" alt="GLB Hackathon"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/WIEMPOWER_6.0-IEEE_IGDTUW-C850C0?style=for-the-badge&labelColor=0d1117" alt="WIEMPOWER"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/LEAN_IN_HACKS-6.0-00B894?style=for-the-badge&labelColor=0d1117" alt="LEAN IN HACKS"/></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## GSSoC '24 & Achievement Badges
-
-<div align="center">
-
-<!-- GSSoC24 GitHub repos were removed — Holopin hosts all earned badges reliably -->
-
-<a href="https://holopin.io/@divi24">
-  <img src="https://holopin.me/divi24" alt="GSSoC and achievement badges on Holopin" width="700"/>
-</a>
-
-<br/><br/>
-
-<sub>Postman Challenge · Code Luminary · Git Explorer · Pull Expert · + more on <a href="https://holopin.io/@divi24">Holopin</a></sub>
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-**Recruiters, founders, and fellow devs — I'd love to connect.**
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/deepak2405">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:divi2749@gmail.com">
-        <img src="https://img.shields.io/badge/Email-divi2749@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://3d-portfolio-git-main-deepak-guptas-projects-1a8eb72c.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-Explore-00D4FF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://x.com/Divi_2405">
-        <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dev.to/divi-2405">
-        <img src="https://img.shields.io/badge/dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://medium.com/@divi2749">
-        <img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://peerlist.io/divi_2405">
-        <img src="https://img.shields.io/badge/Peerlist-Profile-00B894?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.producthunt.com/@divi_2405">
-        <img src="https://img.shields.io/badge/Product_Hunt-Follow-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/divi-24">
-        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,+solve+the+problem.+Then,+write+the+code.&author=John+Johnson)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=Code+with+Passion;Build+with+Purpose;Ship+with+Pride" alt="Footer typing"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:0F0C29&height=100&section=footer&text=Thanks+for+visiting!+Star+my+repos.&fontSize=15&fontColor=00D4FF&animation=twinkling"/>
-
-<br/>
-
-**Made with passion by [Deepak Gupta](https://github.com/divi-24)**
-
+  <sub>Thanks for stopping by. Let's build something useful.</sub>
 </div>
