@@ -1,94 +1,144 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Deepak Gupta profile game banner</title>
-  <desc id="desc">A gamified creative banner for Deepak Gupta, also known as divi-24: product thinker, frontend builder, and systems shaper.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Deepak Gupta gamified profile banner</title>
+  <desc id="desc">A bright glassmorphism GitHub profile banner for Deepak Gupta, also known as divi-24.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#050816"/>
-      <stop offset="0.45" stop-color="#0B1020"/>
-      <stop offset="1" stop-color="#07111F"/>
+    <linearGradient id="nameGradient" x1="0" x2="1">
+      <stop offset="0" stop-color="#06112E"/>
+      <stop offset="0.42" stop-color="#09152F"/>
+      <stop offset="0.64" stop-color="#C026D3"/>
+      <stop offset="0.82" stop-color="#EC4899"/>
+      <stop offset="1" stop-color="#FB7185"/>
     </linearGradient>
-    <linearGradient id="edge" x1="0" x2="1">
-      <stop offset="0" stop-color="#8B5CF6"/>
-      <stop offset="0.5" stop-color="#22C55E"/>
+
+    <linearGradient id="questLine" x1="0" x2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.36" stop-color="#22D3EE"/>
+      <stop offset="0.62" stop-color="#EC4899"/>
       <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
-    <linearGradient id="name" x1="0" x2="1">
-      <stop offset="0" stop-color="#F8FAFC"/>
-      <stop offset="0.42" stop-color="#C4B5FD"/>
-      <stop offset="0.72" stop-color="#86EFAC"/>
-      <stop offset="1" stop-color="#FCD34D"/>
+
+    <linearGradient id="brandRing" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.35" stop-color="#22C55E"/>
+      <stop offset="0.72" stop-color="#A3E635"/>
+      <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
-    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+
+    <linearGradient id="xp" x1="0" x2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.52" stop-color="#EC4899"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+
+    <linearGradient id="buildButton" x1="0" x2="1">
+      <stop offset="0" stop-color="#EC4899"/>
+      <stop offset="1" stop-color="#BE185D"/>
+    </linearGradient>
+
+    <radialGradient id="pinkOrb" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#FBCFE8" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#FBCFE8" stop-opacity="0"/>
     </radialGradient>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="9" result="blur"/>
+
+    <radialGradient id="amberOrb" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#FDE68A" stop-opacity="0.62"/>
+      <stop offset="1" stop-color="#FDE68A" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="20" stdDeviation="28" flood-color="#64748B" flood-opacity="0.18"/>
+    </filter>
+
+    <filter id="lightGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#1E293B" stroke-width="1" opacity="0.42"/>
+
+    <pattern id="tinyGrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#E2E8F0" stroke-width="1" opacity="0.28"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="420" rx="32" fill="url(#bg)"/>
-  <rect x="1.5" y="1.5" width="1197" height="417" rx="30.5" fill="none" stroke="url(#edge)" stroke-width="3"/>
-  <rect width="1200" height="420" rx="32" fill="url(#grid)" opacity="0.34"/>
-  <circle cx="994" cy="77" r="220" fill="url(#orb)"/>
-  <circle cx="160" cy="390" r="210" fill="#8B5CF6" opacity="0.08"/>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <rect width="1600" height="900" fill="url(#tinyGrid)" opacity="0.55"/>
+  <circle cx="1515" cy="95" r="350" fill="#EDE9FE" opacity="0.72"/>
+  <circle cx="1430" cy="250" r="210" fill="url(#amberOrb)"/>
+  <circle cx="96" cy="880" r="470" fill="#EDE9FE" opacity="0.82"/>
+  <circle cx="285" cy="790" r="360" fill="url(#pinkOrb)"/>
+  <path d="M-60 590 C126 774 373 810 620 774 C818 746 968 674 1114 566" fill="none" stroke="#A78BFA" stroke-width="3" opacity="0.48"/>
 
-  <path d="M60 317 C184 254 270 333 392 264 C525 188 623 238 758 164 C894 90 1015 113 1142 52"
-        fill="none" stroke="url(#edge)" stroke-width="6" stroke-linecap="round" opacity="0.88" filter="url(#glow)"/>
-  <path d="M76 333 L198 276 L318 291 L456 218 L585 240 L722 164 L856 185 L1010 108 L1125 122"
-        fill="none" stroke="#38BDF8" stroke-width="1.6" opacity="0.42"/>
+  <path d="M488 454 C646 372 773 316 940 268 C1119 216 1304 144 1472 153 C1551 157 1600 210 1557 343"
+        fill="none" stroke="url(#questLine)" stroke-width="4" stroke-linecap="round" opacity="0.72"/>
+  <path d="M488 454 C646 372 773 316 940 268 C1119 216 1304 144 1472 153 C1551 157 1600 210 1557 343"
+        fill="none" stroke="url(#questLine)" stroke-width="15" stroke-linecap="round" opacity="0.08" filter="url(#lightGlow)"/>
+  <circle cx="1076" cy="240" r="12" fill="#EC4899" filter="url(#lightGlow)"/>
+  <circle cx="1490" cy="152" r="13" fill="#F59E0B" filter="url(#lightGlow)"/>
 
-  <g transform="translate(64 54)">
-    <rect width="255" height="310" rx="24" fill="#08111F" stroke="#263244"/>
-    <text x="28" y="42" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="900" letter-spacing="2">PLAYER CARD</text>
-    <circle cx="128" cy="112" r="54" fill="#111827" stroke="url(#edge)" stroke-width="4"/>
-    <path d="M128 76 L164 112 L128 148 L92 112 Z" fill="none" stroke="#22C55E" stroke-width="7" stroke-linejoin="round"/>
-    <path d="M128 76 V148" stroke="#8B5CF6" stroke-width="6" stroke-linecap="round"/>
-    <text x="128" y="197" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="900">divi-24</text>
-    <text x="128" y="222" text-anchor="middle" fill="#94A3B8" font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="700">level 24 builder</text>
-    <rect x="28" y="248" width="199" height="12" rx="6" fill="#111827" stroke="#263244"/>
-    <rect x="28" y="248" width="162" height="12" rx="6" fill="url(#edge)"/>
-    <text x="28" y="286" fill="#C4B5FD" font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="800">XP  product + code + care</text>
+  <g transform="translate(68 194)" filter="url(#softShadow)">
+    <rect width="338" height="458" rx="34" fill="#FFFFFF" opacity="0.86" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="50" y="58" fill="#8B94A7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="900" letter-spacing="8">PLAYER CARD</text>
+
+    <circle cx="169" cy="177" r="86" fill="#FFFFFF" stroke="url(#brandRing)" stroke-width="7"/>
+    <path d="M169 118 L229 177 L169 236 L109 177 Z" fill="none" stroke="#10B981" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M169 118 V236" stroke="#8B5CF6" stroke-width="8" stroke-linecap="round"/>
+
+    <text x="169" y="306" text-anchor="middle" fill="#020617" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="39" font-weight="950">divi-24</text>
+    <text x="169" y="350" text-anchor="middle" fill="#8B94A7" font-family="Fira Code, Consolas, monospace" font-size="20" font-weight="700">level 24 builder</text>
+
+    <rect x="54" y="382" width="230" height="22" rx="11" fill="#E5E7EB"/>
+    <rect x="54" y="382" width="184" height="22" rx="11" fill="url(#xp)"/>
+    <text x="54" y="452" fill="#8B94A7" font-family="Fira Code, Consolas, monospace" font-size="19" font-weight="800">XP product + code + care</text>
   </g>
 
-  <g transform="translate(358 72)">
-    <text x="0" y="0" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="900" letter-spacing="5">PRESS START TO BUILD</text>
-    <text x="0" y="78" fill="url(#name)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="950">Deepak Gupta</text>
-    <text x="3" y="124" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">Product thinker. Frontend builder. Systems shaper.</text>
-    <text x="3" y="160" fill="#94A3B8" font-family="Fira Code, Consolas, monospace" font-size="17" font-weight="700">quest: turn fuzzy ideas into useful, lovable, shipped products</text>
+  <g transform="translate(462 240)">
+    <text x="0" y="0" fill="#8B94A7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="900" letter-spacing="10">PRESS START TO BUILD</text>
+    <text x="0" y="118" fill="url(#nameGradient)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="104" font-weight="950">Deepak Gupta</text>
+    <text x="3" y="180" fill="#273244" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">Product thinker. Frontend builder. Systems shaper.</text>
+    <text x="3" y="232" fill="#8B94A7" font-family="Fira Code, Consolas, monospace" font-size="23" font-weight="700">quest: turn fuzzy ideas into useful, lovable, shipped products</text>
 
-    <g transform="translate(0 202)">
-      <rect width="154" height="46" rx="14" fill="#171B2A" stroke="#374151"/>
-      <text x="77" y="29" text-anchor="middle" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="900">DESIGN QUEST</text>
-      <rect x="174" width="138" height="46" rx="14" fill="#102116" stroke="#285A39"/>
-      <text x="243" y="29" text-anchor="middle" fill="#86EFAC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="900">BUILD MODE</text>
-      <rect x="332" width="136" height="46" rx="14" fill="#251A08" stroke="#6B4B13"/>
-      <text x="400" y="29" text-anchor="middle" fill="#FCD34D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="900">SHIP LOOP</text>
+    <g transform="translate(0 286)">
+      <rect width="244" height="74" rx="20" fill="#FFFFFF" opacity="0.84" stroke="#FBCFE8" stroke-width="2"/>
+      <path d="M49 35 L35 49 L32 58 L41 55 L55 41 Z" fill="none" stroke="#DB2777" stroke-width="4" stroke-linejoin="round"/>
+      <path d="M50 28 L62 40" stroke="#DB2777" stroke-width="4" stroke-linecap="round"/>
+      <text x="142" y="47" text-anchor="middle" fill="#BE185D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="950">DESIGN QUEST</text>
+
+      <rect x="276" width="246" height="74" rx="20" fill="url(#buildButton)" filter="url(#softShadow)"/>
+      <path d="M338 26 L318 37 L338 48" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M382 26 L402 37 L382 48" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M367 22 L352 53" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+      <text x="429" y="47" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="950">BUILD MODE</text>
+
+      <rect x="552" width="228" height="74" rx="20" fill="#FFFFFF" opacity="0.84" stroke="#FDE68A" stroke-width="2"/>
+      <path d="M608 27 C624 25 637 35 637 35 C637 35 627 48 611 50 L600 61 L594 55 L605 44 Z" fill="#B45309"/>
+      <circle cx="625" cy="36" r="4" fill="#FFFFFF"/>
+      <text x="695" y="47" text-anchor="middle" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="950">SHIP LOOP</text>
     </g>
   </g>
 
-  <g transform="translate(864 244)">
-    <rect width="246" height="98" rx="20" fill="#08111F" stroke="#263244"/>
-    <text x="22" y="34" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="2">ACTIVE LOADOUT</text>
-    <text x="22" y="63" fill="#F8FAFC" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="800">React  Next  Three</text>
-    <text x="22" y="86" fill="#86EFAC" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="800">Node  Product  UX</text>
+  <g transform="translate(1218 244)" filter="url(#softShadow)">
+    <rect width="300" height="188" rx="30" fill="#FFFFFF" opacity="0.86" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="34" y="54" fill="#8B94A7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="900" letter-spacing="8">MINI MAP</text>
+    <path d="M42 138 C86 114 96 89 126 89 C155 89 162 118 190 118 C224 118 230 62 264 72 C278 76 292 84 304 86"
+          fill="none" stroke="#E5E7EB" stroke-width="35" stroke-linecap="round" opacity="0.55"/>
+    <path d="M42 138 L91 105 L145 127 L205 66 L270 87" fill="none" stroke="url(#questLine)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="42" cy="138" r="10" fill="#7C3AED"/>
+    <circle cx="91" cy="105" r="10" fill="#EC4899"/>
+    <circle cx="145" cy="127" r="10" fill="#F59E0B"/>
+    <circle cx="205" cy="66" r="10" fill="#10B981"/>
+    <circle cx="270" cy="87" r="10" fill="#8B5CF6"/>
   </g>
 
-  <g transform="translate(927 70)" opacity="0.92">
-    <rect width="184" height="122" rx="22" fill="#08111F" stroke="#263244"/>
-    <text x="24" y="38" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="2">MINI MAP</text>
-    <path d="M30 86 L63 61 L95 76 L126 42 L156 54" fill="none" stroke="#38BDF8" stroke-width="2"/>
-    <circle cx="30" cy="86" r="5" fill="#8B5CF6"/>
-    <circle cx="63" cy="61" r="5" fill="#22C55E"/>
-    <circle cx="95" cy="76" r="5" fill="#F59E0B"/>
-    <circle cx="126" cy="42" r="5" fill="#22C55E"/>
-    <circle cx="156" cy="54" r="5" fill="#8B5CF6"/>
+  <g transform="translate(1252 464)" filter="url(#softShadow)">
+    <rect width="270" height="150" rx="28" fill="#FFFFFF" opacity="0.88" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="34" y="52" fill="#8B94A7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="900" letter-spacing="6">ACTIVE LOADOUT</text>
+    <text x="34" y="98" fill="#020617" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="950">React  Next  Three</text>
+    <text x="34" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="950">
+      <tspan fill="#22C55E">Node</tspan>
+      <tspan fill="#8B5CF6">  Product</tspan>
+      <tspan fill="#EC4899">  UX</tspan>
+    </text>
   </g>
 </svg>

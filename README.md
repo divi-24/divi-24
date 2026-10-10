@@ -118,17 +118,19 @@ ship velocity     [████████░░]  88
 ## Live Scoreboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divi-24&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB&icon_color=22C55E" alt="Deepak's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=divi-24&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=22C55E&sideLabels=E5E7EB&dates=94A3B8&sideNums=E5E7EB&currStreakNum=E5E7EB" alt="Deepak's GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divi-24&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB&icon_color=22C55E" alt="Deepak's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=divi-24&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=22C55E&sideLabels=E5E7EB&dates=94A3B8&sideNums=E5E7EB&currStreakNum=E5E7EB" alt="Deepak's GitHub streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divi-24&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" alt="Deepak's top languages" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=divi-24&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4" alt="Deepak's GitHub trophies" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divi-24&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB&langs_count=6" alt="Deepak's top languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divi-24&bg_color=0D1117&color=E5E7EB&line=8B5CF6&point=22C55E&area=true&hide_border=true" alt="Deepak's GitHub activity graph" width="100%" />
+  <img src="https://img.shields.io/badge/Quest_Status-Active-22C55E?style=for-the-badge" alt="Quest status active" />
+  <img src="https://img.shields.io/badge/Build_Mode-On-8B5CF6?style=for-the-badge" alt="Build mode on" />
+  <img src="https://img.shields.io/badge/Open_Source-Always-F59E0B?style=for-the-badge" alt="Open source always" />
+  <img src="https://img.shields.io/badge/Ship_Energy-High-EC4899?style=for-the-badge" alt="Ship energy high" />
 </div>
 
 ## Competitive Arena
