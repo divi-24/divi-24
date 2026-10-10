@@ -6,38 +6,45 @@
 <div align="center">
   <img src="./assets/profile-greeting.svg" alt="Hello! I am Deepak" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&height=58&lines=I+build+useful+products.;I+shape+digital+experiences.;I+turn+ideas+into+real+impact." alt="I build useful products." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&height=60&lines=I+turn+ideas+into+products.;I+build+experiences+that+feel+alive.;I+design+systems+that+scale.;I+ship+what+helps." alt="Dynamic typing animation" />
   <br /><br />
 
-  <a href="https://diviii.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/deepak2405"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:divi2749@gmail.com"><img src="https://img.shields.io/badge/Email-Start_a_conversation-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Deepak" /></a>
-  <a href="https://github.com/divi-24?tab=followers"><img src="https://komarev.com/ghpvc/?username=divi-24&label=Profile%20views&style=flat-square&color=111827" alt="Profile views" /></a>
+  <a href="https://diviii.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/deepak2405"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:divi2749@gmail.com"><img src="https://img.shields.io/badge/Email-Start_a_conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Deepak" /></a>
+  <a href="https://github.com/divi-24?tab=followers"><img src="https://komarev.com/ghpvc/?username=divi-24&label=Profile%20views&style=for-the-badge&color=111827" alt="Profile views" /></a>
 </div>
 
 <h3 align="center"><i>Curious mind. Useful work. Better every iteration.</i></h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Builder-Product%20Strategy-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engineer-Frontend%20%26%20Systems-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Thinker-Systems%20Design-F59E0B?style=flat-square" />
+</p>
+
 ## ✦ The Short Version
 
-I take products from **idea to deployment**: understanding the problem, shaping the experience, building the system, and polishing the details that earn trust.
+I help ideas become clear, lovable, and real — from first spark to shipped product.
 
-I work across interactive 3D web experiences, product strategy, and full-stack execution — turning complexity into clarity and ideas into experiences people actually want to use.
+I work across product thinking, interface design, frontend engineering, and system-building — turning complexity into simplicity and ambition into outcomes.
 
 ```text
 think in systems  →  design with intent  →  build with care  →  ship what helps
 ```
 
-- Former **Chief Marketing Officer at Dropp Services Pvt. Ltd.**, after progressing through frontend engineering, product strategy, and product management.
-- **Best Mentor** at SSSC by TechNeeds, IGDTUW; mentored 200+ learners in web development and career readiness.
-- **Project Admin** at GirlScript Summer of Code and Social Summer of Code.
-- Top 11 team at **Hack'n'Solve, Devcation 2025**; open-source contributor, speaker, and hackathon builder.
+- Former Chief Marketing Officer at Dropp Services Pvt. Ltd., building through frontend engineering, product strategy, and product management.
+- Best Mentor at SSSC by TechNeeds, IGDTUW, mentoring 200+ learners in web development and career readiness.
+- Project Admin at GirlScript Summer of Code and Social Summer of Code.
+- Top 11 team at Hack'n'Solve, Devcation 2025.
+- Open-source contributor, speaker, and hackathon builder.
 
 ## ⚡ How I Work
 
 | I start with | I care about | I finish with |
 | :-- | :-- | :-- |
-| A real problem | Clear experiences | Something useful |
-| Curiosity | Thoughtful details | A shipped product |
+| A real problem | Human-centered experiences | Something useful |
+| A curious question | Thoughtful details | A confident product |
 | A blank canvas | Strong systems | Room to improve |
 
 ## 🌐 Digital Coordinates
@@ -55,7 +62,7 @@ think in systems  →  design with intent  →  build with care  →  ship what 
   <a href="https://www.producthunt.com/@divi_2405"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
 </div>
 
-### Competitive programming
+### ⚔️ Competitive programming
 
 <div align="center">
   <a href="https://github.com/divi-24"><img src="https://img.shields.io/badge/GitHub-divi--24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
@@ -66,11 +73,11 @@ think in systems  →  design with intent  →  build with care  →  ship what 
 
 ## 🚀 Project Archive
 
-A selection of experiments, products, and prototypes built around real-world problems:
+A curated collection of experiments, products, and prototypes built around real problems and ambitious ideas:
 
 | Project | The idea | Live |
 | :-- | :-- | :-- |
-| **SheSync** | AI-aware menstrual-health and wellness support for personalized care, education, and community. | [Open project](https://shesync-rouge.vercel.app/) |
+| **SheSync** | AI-aware menstrual-health support for personalized care, education, and community. | [Open project](https://shesync-rouge.vercel.app/) |
 | **IGDTUW 3D Map** | An interactive 3D campus experience for exploration and digital storytelling. | [Open project](https://igdtuw-map.vercel.app/) |
 | **GitSee** | Discover, score, compare, and understand public GitHub repositories. | [Open project](https://gitsee-beta.vercel.app/) |
 | **Thrive** | A collaborative space for developers, designers, and innovators solving hackathon challenges. | [Open project](https://thrve-hack.vercel.app/) |
@@ -87,7 +94,7 @@ A selection of experiments, products, and prototypes built around real-world pro
 ## 🧰 Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,nodejs,nestjs,express,go,flutter,dart,mongodb,mysql,firebase,git,github,postman,figma,vercel&perline=10&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,nodejs,nestjs,express,go,flutter,dart,mongodb,mysql,firebase,git,github,postman,figma,vercel&perline=10&theme=dark" alt="Skill icons" />
 </div>
 
 <details>
