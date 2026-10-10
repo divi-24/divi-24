@@ -1,13 +1,13 @@
 <!--
   GitHub profile README for @divi-24.
-  Publish by placing this README.md and its adjacent assets/ directory in the root of github.com/divi-24/divi-24.
+  Product thinker • Frontend builder • Systems shaper
 -->
 
 <div align="center">
   <img src="./assets/profile-greeting.svg" alt="Hello! I am Deepak" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&height=58&lines=I+build+useful+products.;I+ship+thoughtful+web+experiences.;I+contribute+to+open+source.;I+mentor+the+next+builders." alt="Animated introduction: builder, engineer, open-source contributor, and mentor" />
-  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&height=58&lines=I+build+useful+products.;I+shape+digital+experiences.;I+turn+ideas+into+real+impact." alt="I build useful products." />
+  <br /><br />
 
   <a href="https://diviii.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/deepak2405"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,12 +15,16 @@
   <a href="https://github.com/divi-24?tab=followers"><img src="https://komarev.com/ghpvc/?username=divi-24&label=Profile%20views&style=flat-square&color=111827" alt="Profile views" /></a>
 </div>
 
-## The Short Version
+<h3 align="center"><i>Curious mind. Useful work. Better every iteration.</i></h3>
 
-I take products from **idea to deployment**: understanding the problem, shaping the experience, building the system, and polishing the details that earn trust. I work across interactive 3D web experiences, health tech, product strategy, open source, and developer communities.
+## ✦ The Short Version
+
+I take products from **idea to deployment**: understanding the problem, shaping the experience, building the system, and polishing the details that earn trust.
+
+I work across interactive 3D web experiences, product strategy, and full-stack execution — turning complexity into clarity and ideas into experiences people actually want to use.
 
 ```text
-think in systems  ->  build with care  ->  ship what helps
+think in systems  →  design with intent  →  build with care  →  ship what helps
 ```
 
 - Former **Chief Marketing Officer at Dropp Services Pvt. Ltd.**, after progressing through frontend engineering, product strategy, and product management.
@@ -28,7 +32,15 @@ think in systems  ->  build with care  ->  ship what helps
 - **Project Admin** at GirlScript Summer of Code and Social Summer of Code.
 - Top 11 team at **Hack'n'Solve, Devcation 2025**; open-source contributor, speaker, and hackathon builder.
 
-## Digital Coordinates
+## ⚡ How I Work
+
+| I start with | I care about | I finish with |
+| :-- | :-- | :-- |
+| A real problem | Clear experiences | Something useful |
+| Curiosity | Thoughtful details | A shipped product |
+| A blank canvas | Strong systems | Room to improve |
+
+## 🌐 Digital Coordinates
 
 <div align="center">
   <a href="https://diviii.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -43,7 +55,7 @@ think in systems  ->  build with care  ->  ship what helps
   <a href="https://www.producthunt.com/@divi_2405"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
 </div>
 
-**Competitive programming**
+### Competitive programming
 
 <div align="center">
   <a href="https://github.com/divi-24"><img src="https://img.shields.io/badge/GitHub-divi--24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
@@ -52,30 +64,30 @@ think in systems  ->  build with care  ->  ship what helps
   <a href="https://www.codechef.com/users/divi_2405"><img src="https://img.shields.io/badge/CodeChef-divi__2405-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" /></a>
 </div>
 
-## Project Archive
+## 🚀 Project Archive
 
-Every project currently featured in my portfolio, from experimental prototypes to public products:
+A selection of experiments, products, and prototypes built around real-world problems:
 
-| Project | What I built | Live |
+| Project | The idea | Live |
 | :-- | :-- | :-- |
-| **SheSync** | An AI-aware menstrual-health and wellness platform for personalized cycle support, self-care, education, and community. | [Open project](https://shesync-rouge.vercel.app/) |
-| **IGDTUW 3D Map** | An interactive 3D campus visualization for exploration, education, and digital storytelling. | [Open project](https://igdtuw-map.vercel.app/) |
-| **GitSee** | A tool to discover, score, compare, and understand public GitHub repositories. | [Open project](https://gitsee-beta.vercel.app/) |
-| **Thrive** | A collaborative space for developers, designers, and innovators working through hackathon challenges. | [Open project](https://thrve-hack.vercel.app/) |
-| **Kisaan Setu** | A platform connecting farmers with market information, agricultural resources, and expert guidance. | [Open project](https://kisaan-setu-f.vercel.app/) |
-| **ResQPlate** | A food-rescue platform that connects restaurants and food businesses with local charities. | [Open project](https://resqplate.vercel.app/) |
-| **Divios** | An interactive creator portfolio platform built around 3D elements and motion. | [Open project](https://divios.vercel.app/) |
-| **InnerBloom** | A mental-wellness space for reflection, resources, and supportive community features. | [Open project](https://innerbloom.vercel.app/) |
-| **Quake** | An earthquake-awareness tool for real-time information, alerts, and practical safety guidance. | [Open project](https://quake-sigma.vercel.app/) |
-| **Disaster Management** | A platform helping communities stay informed, prepared, and connected during disasters. | [Open project](https://dm-two-pi.vercel.app/) |
-| **Mapify** | A local discovery product built around maps, reviews, and community-shared experiences. | [Open project](https://mapp-roan.vercel.app/) |
+| **SheSync** | AI-aware menstrual-health and wellness support for personalized care, education, and community. | [Open project](https://shesync-rouge.vercel.app/) |
+| **IGDTUW 3D Map** | An interactive 3D campus experience for exploration and digital storytelling. | [Open project](https://igdtuw-map.vercel.app/) |
+| **GitSee** | Discover, score, compare, and understand public GitHub repositories. | [Open project](https://gitsee-beta.vercel.app/) |
+| **Thrive** | A collaborative space for developers, designers, and innovators solving hackathon challenges. | [Open project](https://thrve-hack.vercel.app/) |
+| **Kisaan Setu** | Market information, agricultural resources, and expert guidance for farmers. | [Open project](https://kisaan-setu-f.vercel.app/) |
+| **ResQPlate** | Connect restaurants and food businesses with local charities to rescue surplus food. | [Open project](https://resqplate.vercel.app/) |
+| **Divios** | A creator portfolio platform built around 3D elements and motion. | [Open project](https://divios.vercel.app/) |
+| **InnerBloom** | A mental-wellness space for reflection, resources, and supportive community. | [Open project](https://innerbloom.vercel.app/) |
+| **Quake** | Earthquake awareness, real-time information, alerts, and safety guidance. | [Open project](https://quake-sigma.vercel.app/) |
+| **Disaster Management** | Help communities stay informed, prepared, and connected during disasters. | [Open project](https://dm-two-pi.vercel.app/) |
+| **Mapify** | Local discovery through maps, reviews, and community-shared experiences. | [Open project](https://mapp-roan.vercel.app/) |
 
-[**Walk through the full portfolio**](https://diviii.vercel.app/)
+> [**Walk through the full portfolio →**](https://diviii.vercel.app/)
 
-## Toolbox
+## 🧰 Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,nodejs,nestjs,express,go,flutter,dart,mongodb,mysql,firebase,git,github,postman,figma,vercel&perline=10&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Three.js, Node.js, NestJS, Express, Go, Flutter, Dart, MongoDB, MySQL, Firebase, Git, GitHub, Postman, Figma, and Vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,nodejs,nestjs,express,go,flutter,dart,mongodb,mysql,firebase,git,github,postman,figma,vercel&perline=10&theme=dark" alt="Tech stack" />
 </div>
 
 <details>
@@ -92,7 +104,7 @@ Every project currently featured in my portfolio, from experimental prototypes t
 
 </details>
 
-## Credentials
+## 🏅 Credentials
 
 <div align="center">
   <a href="https://www.credly.com/"><img src="./assets/mckinsey-forward.png" alt="McKinsey Forward Program badge" width="108" /></a>
@@ -117,15 +129,15 @@ Every project currently featured in my portfolio, from experimental prototypes t
   <img src="./assets/hacktoberfest-6.png" alt="Hacktoberfest badge" width="108" />
 </div>
 
-## Beyond the Build
+## ✍️ Beyond the Build
 
 - [SheSync podcast: building accessible menstrual-health technology](https://www.youtube.com/watch?v=MqH9bZNVUbQ)
-- [News18 feature: SheSync as an AI health companion](https://hindi.news18.com/news/uttar-pradesh/greater-noida-ai-women-new-companion-shesync-every-health-answer-one-click-become-women-smart-health-assistant-local18-9792664.html)
-- [Guest speaker: open source and contributions at Data Science Club, VIT Bhopal](https://www.youtube.com/live/xnOeJgy-sK8?si=8x1LD1PLGDodyiG9)
+- Guest speaker on open source and contributions at Data Science Club, VIT Bhopal.
 - [System-design notes and product thinking on Medium](https://medium.com/@divi2749)
-- ["Why Leaves Are Better Than Human Beings" on Amazon](https://www.amazon.com/dp/B0GXMVZ8MQ)
-- ["You Are The Product" on Amazon](https://www.amazon.com/dp/B0H83DFRFX)
+- [“Why Leaves Are Better Than Human Beings” on Amazon](https://www.amazon.com/dp/B0GXMVZ8MQ)
+- [“You Are The Product” on Amazon](https://www.amazon.com/dp/B0H83DFRFX)
 
 <div align="center">
-  <sub>Curious mind. Useful work. Better every iteration.</sub>
+  <br />
+  <sub>Building at the intersection of technology, empathy, and imagination.</sub>
 </div>
