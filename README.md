@@ -94,8 +94,6 @@ Every project currently featured in my portfolio, from experimental prototypes t
 
 ## Credentials
 
-These are local assets in this README bundle, so they render directly on GitHub once the `assets/` folder is placed beside `README.md`.
-
 <div align="center">
   <a href="https://www.credly.com/"><img src="./assets/mckinsey-forward.png" alt="McKinsey Forward Program badge" width="108" /></a>
   <img src="./assets/gssoc-adventurer.png" alt="GSSoC Adventurer badge" width="108" />
