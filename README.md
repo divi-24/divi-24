@@ -8,7 +8,6 @@
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&height=58&lines=I+build+useful+products.;I+ship+thoughtful+web+experiences.;I+contribute+to+open+source.;I+mentor+the+next+builders." alt="Animated introduction: builder, engineer, open-source contributor, and mentor" />
   <br />
-  <sub>Product-minded software engineer turning ideas into dependable experiences.</sub>
 
   <a href="https://diviii.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/deepak2405"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
